@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arvy</h1>
+<h1 align="center">Hi 👋, I'm Arch</h1>
 <h3 align="center">a versatile Web Developer with expertise in video editing, graphic design, and clothes design using Photoshop & Canva. Skilled in building web-based systems, managing procurement processes, and creating visual content. Proficient in Microsoft Office for streamlining documentation and administrative tasks. Experienced in coordinating projects, delivering creative solutions, and ensuring efficient operations.</h3>
 
 - 👨‍💻 All of my projects are available at [https://arvsbernz-cmyk.github.io/itsarvy](https://arvsbernz-cmyk.github.io/itsarvy)
